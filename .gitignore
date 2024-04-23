@@ -1,0 +1,19 @@
+# Ignore
+/target
+/lib
+/classes
+/checkouts
+/local
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.clj-kondo/
+.lsp/
+.calva/output-window
+.DS_Store
+
+# Allow
+!jvm/
